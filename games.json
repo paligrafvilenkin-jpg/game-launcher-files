@@ -35,7 +35,21 @@
         { "name": "watchdog.exe", "filename": "watchdog.exe" }
       ]
     },
-    { "id": "doom-dark-ages", "name": "DOOM: The Dark Ages" },
+    {
+  "id": "doom-dark-ages",
+  "name": "DOOM: The Dark Ages",
+  "files": [
+    { "name": "steam_settings", "filename": "steam_settings.zip", "extract": true },
+    { "name": "userdata", "filename": "userdata.zip", "extract": true },
+    { "name": "HypervisorLauncher.ini", "filename": "HypervisorLauncher.ini" },
+    { "name": "HypervisorLauncher.exe", "filename": "HypervisorLauncher.exe" },
+    { "name": "0xZeOn.dll", "filename": "0xZeOn.dll" },
+    { "name": "steamclient64.dll", "filename": "steamclient64.dll" },
+    { "name": "steam_api64.dll", "filename": "steam_api64.dll" },
+    { "name": "Simplesvm.sys", "filename": "Simplesvm.sys" },
+    { "name": "version.dll", "filename": "version.dll" }
+  ]
+},
     { "id": "yakuza-kiwami-3", "name": "Yakuza Kiwami 3 & Yakuza: Dark Ties" },
     { "id": "avatar-frontiers", "name": "Avatar: Frontiers of Pandora" },
     { "id": "assassins-creed-shadows", "name": "Assassin's Creed Shadows" },
