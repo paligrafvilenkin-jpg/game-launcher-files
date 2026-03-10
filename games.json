@@ -1,0 +1,46 @@
+{
+  "launcher_bat": "launcher.bat",
+  "common_files": [
+    { "name": "DSE Universal Launcher (BAT)", "filename": "dse universal launcher 1.3.bat" },
+    { "name": "DSE Universal Launcher (EXE)", "filename": "dse universal launcher 1.3.exe" },
+    { "name": "DSE Patcher", "filename": "DSE-Patcher.exe" },
+    { "name": "InSpectre", "filename": "InSpectre.exe" }
+  ],
+  "games": [
+    { "id": "black-myth-wukong", "name": "Black Myth: Wukong" },
+    { "id": "stellar-blade", "name": "Stellar Blade" },
+    { "id": "persona-3-reload", "name": "Persona 3 Reload" },
+    { "id": "mafia-old-country", "name": "Mafia: The Old Country" },
+    { "id": "borderlands-4", "name": "Borderlands 4" },
+    {
+      "id": "resident-evil-requiem",
+      "name": "Resident Evil Requiem",
+      "files": [
+        { "name": "ColdClient (папка)", "filename": "coldclient.zip", "extract": true },
+        { "name": "EfiGuard (папка)", "filename": "EfiGuard.zip", "extract": true },
+        { "name": "amd_ags_x64.dll", "filename": "amd_ags_x64.dll" },
+        { "name": "amd_ags_x64.org", "filename": "amd_ags_x64.org" },
+        { "name": "ColdClientLoader.ini", "filename": "ColdClientLoader.ini" },
+        { "name": "hyperevade.dll", "filename": "hyperevade.dll" },
+        { "name": "hyperhv.dll", "filename": "hyperhv.dll" },
+        { "name": "hyperkd.sys", "filename": "hyperkd.sys" },
+        { "name": "hyperlog.dll", "filename": "hyperlog.dll" },
+        { "name": "hyperlog.inf", "filename": "hyperlog.inf" },
+        { "name": "InSpectre.exe", "filename": "InSpectre.exe" },
+        { "name": "kdserial.dll", "filename": "kdserial.dll" },
+        { "name": "KIRIGIRI.dll", "filename": "KIRIGIRI.dll" },
+        { "name": "READNFO-MKDEV TEAM.txt", "filename": "READNFO-MKDEV TEAM.txt" },
+        { "name": "SimpleSvm.sys", "filename": "SimpleSvm.sys" },
+        { "name": "steamclient_loader_x64.exe", "filename": "steamclient_loader_x64.exe" },
+        { "name": "watchdog.exe", "filename": "watchdog.exe" }
+      ]
+    },
+    { "id": "doom-dark-ages", "name": "DOOM: The Dark Ages" },
+    { "id": "yakuza-kiwami-3", "name": "Yakuza Kiwami 3 & Yakuza: Dark Ties" },
+    { "id": "avatar-frontiers", "name": "Avatar: Frontiers of Pandora" },
+    { "id": "assassins-creed-shadows", "name": "Assassin's Creed Shadows" },
+    { "id": "smt-v", "name": "Shin Megami Tensei V" },
+    { "id": "monster-hunter-wilds", "name": "Monster Hunter Wilds" },
+    { "id": "soul-hackers-2", "name": "Soul Hackers 2" }
+  ]
+}
