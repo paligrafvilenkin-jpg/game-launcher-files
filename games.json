@@ -10,6 +10,7 @@
     {
   "id": "black-myth-wukong-amd",
   "name": "Black Myth: Wukong (AMD)",
+  "common_dest": "b1/Binaries/Win64",
   "files": [
     { "name": "Engine (папка)", "filename": "Engine.zip", "extract": true },
     { "name": "b1 (папка)", "filename": "b1.zip", "extract": true }
@@ -18,6 +19,7 @@
 {
   "id": "black-myth-wukong-intel",
   "name": "Black Myth: Wukong (Intel)",
+  "common_dest": "b1/Binaries/Win64",
   "files": [
     { "name": "Engine (папка)", "filename": "Engine.zip", "extract": true },
     { "name": "b1 (папка)", "filename": "b1.zip", "extract": true }
