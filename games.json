@@ -52,7 +52,27 @@
 },
     { "id": "yakuza-kiwami-3", "name": "Yakuza Kiwami 3 & Yakuza: Dark Ties" },
     { "id": "avatar-frontiers", "name": "Avatar: Frontiers of Pandora" },
-    { "id": "assassins-creed-shadows", "name": "Assassin's Creed Shadows" },
+    {
+  "id": "assassins-creed-shadows",
+  "name": "Assassin's Creed Shadows",
+  "files": [
+    { "name": "Driver Intel", "filename": "driver_intel.zip", "extract": true },
+    { "name": "Driver AMD", "filename": "driver_amd.zip", "extract": true },
+    { "name": "steam_settings (папка)", "filename": "steam_settings.zip", "extract": true },
+    { "name": "dbdata.dll", "filename": "dbdata.dll" },
+    { "name": "hypervisor-launcher.exe", "filename": "hypervisor-launcher.exe" },
+    { "name": "Launcher.bat", "filename": "Launcher.bat" },
+    { "name": "load.txt", "filename": "load.txt" },
+    { "name": "reflex.dll", "filename": "reflex.dll" },
+    { "name": "steam_api64.dll", "filename": "steam_api64.dll" },
+    { "name": "steamclient64.dll", "filename": "steamclient64.dll" },
+    { "name": "token_amd.ini", "filename": "token_amd.ini" },
+    { "name": "token_intel.ini", "filename": "token_intel.ini" },
+    { "name": "upc_r2.ini", "filename": "upc_r2.ini" },
+    { "name": "upc_r2_loader64.dll", "filename": "upc_r2_loader64.dll" },
+    { "name": "winmm.dll", "filename": "winmm.dll" }
+  ]
+},
     {
   "id": "doom-dark-ages-intel",
   "name": "DOOM: The Dark Ages (Intel)",
