@@ -7,7 +7,14 @@
     { "name": "InSpectre", "filename": "InSpectre.exe" }
   ],
   "games": [
-    { "id": "black-myth-wukong", "name": "Black Myth: Wukong" },
+    {
+  "id": "black-myth-wukong-amd",
+  "name": "Black Myth: Wukong (AMD)",
+  "files": [
+    { "name": "Engine (папка)", "filename": "Engine.zip", "extract": true },
+    { "name": "b1 (папка)", "filename": "b1.zip", "extract": true }
+  ]
+},
     { "id": "stellar-blade", "name": "Stellar Blade" },
     { "id": "persona-3-reload", "name": "Persona 3 Reload" },
     { "id": "mafia-old-country", "name": "Mafia: The Old Country" },
