@@ -53,7 +53,27 @@
     { "id": "yakuza-kiwami-3", "name": "Yakuza Kiwami 3 & Yakuza: Dark Ties" },
     { "id": "avatar-frontiers", "name": "Avatar: Frontiers of Pandora" },
     { "id": "assassins-creed-shadows", "name": "Assassin's Creed Shadows" },
-    { "id": "smt-v", "name": "Shin Megami Tensei V" },
+    {
+  "id": "doom-dark-ages-intel",
+  "name": "DOOM: The Dark Ages (Intel)",
+  "files": [
+    { "name": "steam_settings (папка)", "filename": "steam_settings.zip", "extract": true },
+    { "name": "userdata (папка)", "filename": "userdata.zip", "extract": true },
+    { "name": "HypervisorLauncher.ini", "filename": "HypervisorLauncher.ini" },
+    { "name": "HypervisorLauncher.exe", "filename": "HypervisorLauncher.exe" },
+    { "name": "0xZeOn.dll", "filename": "0xZeOn.dll" },
+    { "name": "steamclient64.dll", "filename": "steamclient64.dll" },
+    { "name": "steam_api64.dll", "filename": "steam_api64.dll" },
+    { "name": "hyperkd.sys", "filename": "hyperkd.sys" },
+    { "name": "hyperhv.dll", "filename": "hyperhv.dll" },
+    { "name": "hyperevade.dll", "filename": "hyperevade.dll" },
+    { "name": "hyperlog.dll", "filename": "hyperlog.dll" },
+    { "name": "kdserial.dll", "filename": "kdserial.dll" },
+    { "name": "hyperlog.inf", "filename": "hyperlog.inf" },
+    { "name": "version.dll", "filename": "version.dll" },
+    { "name": "InSpectre.exe", "filename": "InSpectre.exe" }
+  ]
+},
     { "id": "monster-hunter-wilds", "name": "Monster Hunter Wilds" },
     { "id": "soul-hackers-2", "name": "Soul Hackers 2" }
   ]
